@@ -1,0 +1,7 @@
+spring:
+  security:
+    oauth2:
+      client-id: someclient
+      client-secret: somesecret
+    user:
+      password: welcome1
